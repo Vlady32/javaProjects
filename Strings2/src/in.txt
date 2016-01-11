@@ -1,0 +1,16 @@
+daily-rate   = 50000  
+   indices  =  2  ;15;  03  ;  zzz;4;2x2; 1;zzz;1;      2;        15;
+
+account2 = cool
+transport2    =   120000
+days2=3
+days2=5
+
+transport15    =   90000
+days15days15=3
+days15=3q
+days15=3
+
+transport03    =   100000
+transport1    =   90000
+account1=clever
